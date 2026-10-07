@@ -30,4 +30,4 @@ Seul, en salle de formation. Un compte GitHub gratuit, le modèle de portfolio d
 
 ## Ce que j'en retiens
 
-Remplacez cette phrase par une difficulté rencontrée et la façon dont vous l'avez réglée.
+J'ai voulu rajouter des imagers sur les cotés du site j'ai eu du mal mais j'ai pus trouver une solution sur internet 
