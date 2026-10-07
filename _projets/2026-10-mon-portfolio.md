@@ -30,4 +30,4 @@ Seul, en salle de formation. Un compte GitHub gratuit, le modèle de portfolio d
 
 ## Ce que j'en retiens
 
-J'ai voulu rajouter des imagers sur les cotés du site j'ai eu du mal mais j'ai pus trouver une solution sur internet 
+J'ai voulu rajouter des imagers sur les cotés du site j'ai eu du mal mais j'ai pas trouver de solution sur internet pour l'instant
