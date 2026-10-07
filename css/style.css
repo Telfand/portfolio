@@ -46,5 +46,5 @@ footer { margin-top: 3rem; padding-bottom: 2rem; font-size: .85rem; color: var(-
 }
 .mon-image {
   border: 15px solid transparent;
-  border-image: url('papyrus.jpg') 30 round;
+  border-image: url('/images/papyrus.jpg') 30 round;
 }
