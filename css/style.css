@@ -44,7 +44,32 @@ footer { margin-top: 3rem; padding-bottom: 2rem; font-size: .85rem; color: var(-
   h1 { font-size: 1.6rem; }
   
 }
-.mon-image {
-  border: 15px solid transparent;
-  border-image: url('/images/papyrus.jpg') 30 round;
+body {
+  margin: 0;
+  /* Laissez une marge à gauche et à droite pour ne pas cacher le texte */
+  padding: 0 150px; 
+}
+
+/* Bordure gauche */
+.side-left {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 150px; /* Largeur de votre image/bande */
+  height: 100%;
+  background-image: url('/images/papyrus.jpg');
+  background-repeat: repeat-y; /* Répète l'image verticalement */
+  background-size: cover;
+}
+
+/* Bordure droite */
+.side-right {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 150px;
+  height: 100%;
+  background-image: url('/images/papyrus.jpg');
+  background-repeat: repeat-y;
+  background-size: cover;
 }
