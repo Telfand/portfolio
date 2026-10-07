@@ -26,7 +26,7 @@ a { color: var(--accent); }
 a:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
 .sous-titre, .meta { color: var(--doux); margin: .3rem 0 0; }
 .meta { font-size: .85rem; }
-.carte { border: 1px solid var(--trait); background: #fff; padding: .8rem 1rem; margin: 1rem 0; }
+.carte { border: 1px solid var(--trait); background: #637a8d; padding: .8rem 1rem; margin: 1rem 0; }
 .carte h3 { margin: 0 0 .2rem; }
 .carte p { margin: .2rem 0; }
 .comp-liste { font-size: .9rem; }
