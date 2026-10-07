@@ -1,11 +1,11 @@
 /* Mise en forme du portfolio. Changez la couleur --accent pour donner
    votre teinte au site ; le reste suit. */
 :root {
-  --encre: #1d2630;
+  --encre: #FF7A7A;
   --accent: #0a5c8c;
-  --fond: ##B8E2FF;
+  --fond: #B8E2FF;
   --trait: #d5dbe1;
-  --doux: #5b6672;
+  --doux: #797979;
 }
 * { box-sizing: border-box; }
 body {
